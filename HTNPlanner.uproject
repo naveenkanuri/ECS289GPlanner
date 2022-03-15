@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C9996369-D6E2-4894-B375-55A13F306EEE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HTNPlanner",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"AIModule",
+				"HTNPlugin"
+			]
+		}
+	]
+}

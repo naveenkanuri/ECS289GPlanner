@@ -1,0 +1,12 @@
+Script
+Binaries
+Content/*
+!Content/test
+Intermediate
+Saved
+DerivedDataCache
+.vscode
+.idea
+Plugins/HTNPlugin/Binaries
+Plugins/HTNPlugin/Intermediate
+Plugins/HTNPlugin/Content
